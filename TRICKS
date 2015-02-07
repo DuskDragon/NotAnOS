@@ -1,0 +1,4 @@
+Using radare2 we can do:
+    r2 -a x86 -b 16 .\boot.img
+    pd 10
+To view the first 10 instructions of the bootloader in real mode

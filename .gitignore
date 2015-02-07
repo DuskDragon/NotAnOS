@@ -38,3 +38,4 @@ mkfs
 .gdbinit
 out
 fs
+bochsrc.bxrc
