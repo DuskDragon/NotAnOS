@@ -27,3 +27,14 @@
 *.i*86
 *.x86_64
 *.hex
+
+# Other garbage including assembler stuff, etc.
+*~
+_*
+.*.swp
+*.sym
+*.img
+mkfs
+.gdbinit
+out
+fs
