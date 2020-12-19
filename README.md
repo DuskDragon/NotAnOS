@@ -1,2 +1,2 @@
-# ImplosionOS
-How to make your computer die in a fire.
+# NotAnOS
+How to make your computer do nothing very fast.

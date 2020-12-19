@@ -26,7 +26,7 @@ OutString_Exit:
 RET                ;End of routine
 
 ;Data
-DataString db 'ImplosionOS Bootloader',0
+DataString db 'NotAnOS Bootloader',0
 
 TIMES 510 - ($ - $$) db 0    ;Fill the rest of sector 0 with zeroes
 DW 0xAA55                    ;Legacy boot signature
